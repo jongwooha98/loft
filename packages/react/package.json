@@ -1,0 +1,15 @@
+{
+  "name": "@loft/react",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "build": "bun run build.ts"
+  },
+  "dependencies": {
+    "@loft/js": "workspace:*"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^5.3.3"
+  }
+}

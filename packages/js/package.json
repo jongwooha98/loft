@@ -1,0 +1,12 @@
+{
+  "name": "@loft/js",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "build": "bun run build.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^5.3.3"
+  }
+}
